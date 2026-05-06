@@ -12,7 +12,7 @@ project is a  machine learning application that implements two core analytical w
 
 The project combines professional data preprocessing, multiple ML algorithms, and an interactive Streamlit web interface to provide accurate predictions with comprehensive market analysis.
 
-**Key Deliverables**:
+**Key Deliverable**:
 
 - Trained ML models serialized as .pkl files
 - Interactive web application for real-time predictions
