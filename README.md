@@ -348,7 +348,7 @@ The project uses flat‑file storage (CSV). No SQL/NoSQL database is employed.
 
 ---
 
-## 11. TRAINING SCRIPTS DETAIL
+## 11. TRAINING SCRIPTS DETAILs
 
 ### 11.1 `train_model.py` – Professional Pipeline
 
